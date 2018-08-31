@@ -40,4 +40,4 @@ An Q Tran
 
 
 
-Thanks to Merunas Grincalaitis and his awesome tutorial on Medium.com that helps me building this Dapp.
+Thanks to Merunas Grincalaitis and his awesome tutorial on Medium.com that helps me build this Dapp.
